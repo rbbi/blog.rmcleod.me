@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Apprentice Java Developer
+Apprentice Engineer
