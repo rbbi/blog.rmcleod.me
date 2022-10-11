@@ -4,4 +4,4 @@ title: About
 permalink: /about/
 ---
 
-Apprentice Engineer
+Software Engineer at [Lendscape](https://www.lendscape.com).
